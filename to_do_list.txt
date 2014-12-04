@@ -1,0 +1,15 @@
+Program Requirements (65 points):
+
+- (5) ALL TESTS MUST PASS (X)
+- (10) Maze is displayed on the screen, with clear indication of walls, passageways and caverns. Cavern #s are clearly displayed. (X)
+- (40) Robots behavior
+	- Robots move in four directions (X)
+	- Robots do not cross walls (X)
+	- Robots recognize when they have found the cavern of interest (X)
+	- Robots detect dead-ends (X)
+	- If a robot has learned a route, it does not search but goes
+	  directly to the target (X)
+	- Robots return directly from the target to the assignment area (X)
+	- Robots are assigned tasks in order (i.e., robot 1, then robot 2, etc.) (X)
+	- Robot getting an assignment can ask its neighbor robot if it knows the route (X)
+- (10) Human user is able to give an assignment to the next robot in line (X)
